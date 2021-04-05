@@ -1,7 +1,7 @@
 # electron-react-template
 A simple base environment to get an Electron app ready with React.
 
-This template uses [Electron](https://www.electronjs.org/), [React](https://reactjs.org/), [Webpack](https://webpack.js.org/) and [electron-webpack](https://webpack.electron.build/)
+This template uses [Electron](https://www.electronjs.org/), [React](https://reactjs.org/), [Webpack](https://webpack.js.org/), [electron-webpack](https://webpack.electron.build/) and [React Developer Tools (in development mode only)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
 This template is very simple. If you want something more advanced/configurable, [`electron-react-boilerplate` may be best for you](https://github.com/electron-react-boilerplate/electron-react-boilerplate).
 
