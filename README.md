@@ -1,3 +1,5 @@
+# 🛑 ARCHIVED: Use [Armster15/electron-webpack-boilerplate](https://github.com/Armster15/electron-webpack-boilerplate) instead
+
 # electron-react-template
 A simple base environment to get an Electron app ready with React.
 
